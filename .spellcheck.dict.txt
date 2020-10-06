@@ -43,6 +43,7 @@ enum
 ESLint
 Fastlane
 FCM
+firebase
 Firebase
 Firestore
 GDPR
@@ -83,6 +84,7 @@ OpenID
 perf
 performant
 personalization
+Podfile
 plist
 pre-fetched
 pre-rendered
@@ -131,5 +133,8 @@ Xcode
 Xcode.
 lifecycle
 SNS
+XMPP
+XCS
+firebase-admin
 SSV
-
+CP-User
